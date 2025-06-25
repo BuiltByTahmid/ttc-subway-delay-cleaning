@@ -1,5 +1,5 @@
 # ttc-subway-delay-cleaning
-Cleaning and preparing Toronto's TTC Subway Delay Logs for analysis (2023–2024).
+Cleaning and preparing Toronto's TTC Subway Delay Logs for analysis (2023).
 # TTC Subway Delay Data Cleaning 🧹🚇
 
 This project focuses on cleaning and preparing Toronto's TTC Subway Delay Logs for analysis. The raw data comes from the [City of Toronto Open Data portal](https://open.toronto.ca/dataset/ttc-subway-delay-data/) and includes subway delay reports spanning multiple years.
